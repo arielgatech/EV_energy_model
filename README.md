@@ -43,11 +43,11 @@ The output results can be located at 'SER_PHEV_AC' folder in this case, you can 
 
 ### EV_energy_rate_final.csv
 ready-to-use energy consumption rate from this analysis
-> **roadTypeID**: 1- highway, 2- local
-> **speedBinID**: average roadway speed in mph, in 1 mph increment
-> **initSOC**: initial battery state-of-charge (SOC) 
-> **road_grade**: road grade in percentage value [-10%, 10%]
-> **fuel_rate**: fuel (gasoline) consumption rate in kJ/hour
-> **elec_rate** : electricity consumption rate from on-board battery in kJ/hour
-> **vehType**: electric vehicle type, BEV- battery electric vehicle, FCEV - fuel-cell eletric vehicle, HEV - hybrid electric vehicle, PHEV - Plug-in hybrid electric vehicle
-> **Powertrain**: powertrain specfication of each EV, including 100-mile BEV, 300-mile BEV, FCEV, series PHEV, power-split PHEV (PS_PHEV), power-split HEV (PS_HEV) and parallel HEV
+- **roadTypeID**: 1- highway, 2- local
+- **speedBinID**: average roadway speed in mph, in 1 mph increment
+- **initSOC**: initial battery state-of-charge (SOC) 
+- **road_grade**: road grade in percentage value [-10%, 10%]
+- **fuel_rate**: fuel (gasoline) consumption rate in kJ/hour
+- **elec_rate** : electricity consumption rate from on-board battery in kJ/hour
+- **vehType**: electric vehicle type, BEV- battery electric vehicle, FCEV - fuel-cell eletric vehicle, HEV - hybrid electric vehicle, PHEV - Plug-in hybrid electric vehicle
+- **Powertrain**: powertrain specfication of each EV, including 100-mile BEV, 300-mile BEV, FCEV, series PHEV, power-split PHEV (PS_PHEV), power-split HEV (PS_HEV) and parallel HEV
